@@ -23,6 +23,7 @@ class Source:
     min_items: int             # fewer parsed items than this means the page changed or we got junk
     keywords: Tuple[str, ...] = ()   # optional regexes matched against the lowercased title
     project: Optional[str] = None    # PUCT control number
+    fresh_days: Optional[int] = None  # first sightings dated older than this are recorded quietly
 
 
 SOURCES: Tuple[Source, ...] = (
@@ -42,13 +43,13 @@ SOURCES: Tuple[Source, ...] = (
                      r"\bgrid\b", r"\bpublic utility\b", r"\bpuc\b", r"\btceq\b",
                      r"\bwater development\b", r"\blarge loads?\b", r"\bpower\b")),
     Source("news_batch_zero", "rss", google_news('"Batch Zero" ERCOT'),
-           "News · ERCOT Batch Zero", min_items=1),
+           "News · ERCOT Batch Zero", min_items=1, fresh_days=10),
     Source("news_tx_dc_policy", "rss",
            google_news('Texas "data center" (audit OR moratorium OR TCEQ OR PUCT)'),
-           "News · Texas data-center policy", min_items=1),
+           "News · Texas data-center policy", min_items=1, fresh_days=10),
     Source("news_anthropic_tx", "rss",
            google_news('(Anthropic OR Fluidstack) Texas "data center"'),
-           "News · Anthropic / Fluidstack in Texas", min_items=0),
+           "News · Anthropic / Fluidstack in Texas", min_items=0, fresh_days=10),
 )
 
 

@@ -10,7 +10,7 @@ from __future__ import annotations
 import json
 import re
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Sequence, Set
 
@@ -34,7 +34,11 @@ class RunResult:
 
     @property
     def fresh(self) -> List[dict]:
-        return [i for i in self.recorded if not i.get("baseline")]
+        return [i for i in self.recorded if not i.get("baseline") and not i.get("backfill")]
+
+    @property
+    def backfill(self) -> List[dict]:
+        return [i for i in self.recorded if i.get("backfill") and not i.get("baseline")]
 
 
 class Store:
@@ -116,18 +120,21 @@ def run(root: Path, sources: Sequence[Source] = SOURCES, fixtures: Optional[Path
             patterns = [re.compile(k) for k in src.keywords]
             items = [i for i in items if any(p.search(str(i["title"]).lower()) for p in patterns)]
         is_first = src.id not in seen
+        cutoff = ((now.date() - timedelta(days=src.fresh_days)).isoformat()
+                  if src.fresh_days is not None else None)
         known = seen.setdefault(src.id, set())
         fresh: List[dict] = []
         for item in items:
             if item["key"] in known:
                 continue
             known.add(item["key"])
-            item.update(source=src.id, first_seen=run_at, baseline=is_first)
+            old = bool(cutoff and item.get("date") and str(item["date"]) < cutoff)
+            item.update(source=src.id, first_seen=run_at, baseline=is_first, backfill=old)
             fresh.append(item)
         if is_first:
             first_run.append(src.id)
         else:
-            h["new"] = len(fresh)
+            h["new"] = sum(1 for i in fresh if not i["backfill"])
         recorded.extend(fresh)
 
     store.append(store.items_path, recorded)

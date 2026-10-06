@@ -132,5 +132,34 @@ class RunTests(unittest.TestCase):
         self.assertIn("FAILED gov_news", bad.stdout)
 
 
+class NewsFreshnessTests(unittest.TestCase):
+    RSS = """<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>t</title>{items}</channel></rss>"""
+    ITEM = "<item><title>{t}</title><link>https://example.com/{k}</link><guid>{k}</guid><pubDate>{d}</pubDate></item>"
+
+    def setUp(self):
+        from tracker.sources import Source
+        self.tmp = Path(tempfile.mkdtemp())
+        self.src = Source("feed", "rss", "https://example.com/rss", "Feed", min_items=0, fresh_days=10)
+        (self.tmp / "fx").mkdir()
+
+    def tearDown(self):
+        shutil.rmtree(self.tmp)
+
+    def _write(self, *items):
+        body = self.RSS.format(items="".join(self.ITEM.format(t=t, k=k, d=d) for t, k, d in items))
+        (self.tmp / "fx" / "feed.txt").write_text(body, encoding="utf-8")
+
+    def test_old_story_first_seen_later_is_backfill_not_news(self):
+        self._write(("base", "a", "Mon, 05 Oct 2026 12:00:00 GMT"))
+        run(self.tmp, sources=[self.src], fixtures=self.tmp / "fx", now=NOW)
+        self._write(("base", "a", "Mon, 05 Oct 2026 12:00:00 GMT"),
+                    ("recent", "b", "Sun, 04 Oct 2026 12:00:00 GMT"),
+                    ("old", "c", "Sat, 01 Aug 2026 12:00:00 GMT"))
+        res = run(self.tmp, sources=[self.src], fixtures=self.tmp / "fx", now=NOW)
+        self.assertEqual([i["key"] for i in res.fresh], ["b"])
+        self.assertEqual([i["key"] for i in res.backfill], ["c"])
+        self.assertEqual(res.health[0]["new"], 1)
+
+
 if __name__ == "__main__":
     unittest.main()

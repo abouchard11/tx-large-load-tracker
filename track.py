@@ -42,7 +42,8 @@ def cmd_run(args: argparse.Namespace) -> int:
     (reports / "latest.md").write_text(text, encoding="utf-8")
     failed = len(result.failures)
     summary = (f"{len(result.health)} sources, {len(result.health) - failed} ok, "
-               f"{len(result.fresh)} new, {len(result.recorded) - len(result.fresh)} baseline")
+               f"{len(result.fresh)} new, {len(result.backfill)} backfill, "
+               f"{len(result.recorded) - len(result.fresh) - len(result.backfill)} baseline")
     print(f"{local_time(result.run_at):%Y-%m-%d %H:%M %Z} | {summary} | reports/{day}.md")
     for h in result.failures:
         print(f"  FAILED {h['source']}: {h['status']} {h.get('note') or ''}".rstrip())

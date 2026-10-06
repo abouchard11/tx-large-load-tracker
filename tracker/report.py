@@ -67,6 +67,9 @@ def render(result: RunResult, sources: Sequence[Source] = SOURCES,
     out += [f"## New since last run ({len(fresh)})", ""]
     if not fresh:
         out += ["Nothing new.", ""]
+    if result.backfill:
+        out += [f"_{len(result.backfill)} older stories surfaced in news feeds for the first time; "
+                f"recorded in data/items.jsonl without alerting._", ""]
     for s in sources:
         rows = [i for i in fresh if i["source"] == s.id]
         if not rows:
