@@ -1,0 +1,4440 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta http-equiv="x-ua-compatible" content="IE=Edge">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate">
+    <meta http-equiv="expires" content="0">
+    <meta name="title" content="Interchange Search">
+    <meta name="description" content="Public Utility Commission of Texas Interchange Search">
+    <meta name="keywords" content="Austin, Texas, Public Utility Commission, PUC, PUCT, Interchange">
+    
+    <title>Interchange - Filings</title>
+    <link rel="icon" href="/favicon.ico" />
+    <link href="/Content/css?v=_J--WzTqgXpBySvpm_jS9qSnupz7IjYmM-KNORJAzpw1" rel="stylesheet"/>
+
+    <link href="/Content/themes/base/css?v=i7BOC3S3137TEzZVBFmOebNbXdz0DQAHpplKmp0vqfc1" rel="stylesheet"/>
+
+    <link href="/Content/themes/base/datepicker.css" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-21943797-4', 'texas.gov');
+ga('send', 'pageview');
+</script>
+
+</head>
+<body>
+    
+    <a href="#main" class="sr-only sr-only-focusable">Skip to main content</a>
+    <div id="bodyWrapper">
+        <header class="hidden-xs navbar navbar-fixed-top" role="navigation">
+            <a href="https://www.puc.texas.gov/"><img src="/Content/images/logoSeal.png" style="height: 136px; padding-left: 7px; padding-top: 7px; position: relative; float: left;" /></a>
+            <div style="height: 144px; background-color: #3f51b5; padding-left: 155px; padding-top: 25px;">
+                <span style="color: white; font-size: xx-large; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif">Public Utility Commission of Texas</span><br/>
+                <span style="color: white; font-size: x-large; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Interchange Filing Search</span>
+            </div>
+        </header>
+        <header class="visible-xs navbar navbar-fixed-top" role="navigation">
+            <div class="container-fluid" style="height: 80px; background-color: #3f51b5; padding-top: 20px; padding-left: 10px;">
+                <span class="smallHeader">Public Utility Commission of Texas</span>
+            </div>
+        </header>
+        
+
+
+
+    <div id="main" role="main" class="container body-content">
+        <noscript>
+    <br/>
+    <br />
+    <div class="row"> 
+        <div class="col-md-12">
+            <div class="alert alert-warning" role="alert">
+                <div class="row">
+                    <div class="col-md-1">
+                        <img src='/Content/images/Warning-Message.png' alt="triangle with exclamation mark." style="vertical-align: middle;" />
+                    </div>
+                    <div class="col-md-11">
+                        This page requires JavaScript to be enabled. Either your browser does not support
+                        JavaScript or you have disabled it. Please enable it or use a browser that can support it.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</noscript>
+        <div class="layoutHeader"> 
+            <br /><h1>Filings for 58481</h1>
+        </div>
+        <br />
+        <div id="layoutToolbar" class="hidden-xs toolbar">
+            <ul class="nav nav-pills" role="menu">
+                <li role="menuitem"><a class="btn" href="/"><em class="fa fa-search"></em> Filing Search</a></li>
+                <li role="menuitem"><a class="btn" href="/search/daily/"><em class="fa fa-calendar"></em> Daily Filing Search</a></li>
+                <li role="menuitem"><a class="btn" href="https://www.puc.texas.gov/industry/filings/Default.aspx" target="_blank"><em class="fa fa-question"></em> Learn More</a></li>
+                <li role="menuitem"><a class="btn" href="https://portal.puc.texas.gov/portal/" target="_blank"><em class="fa fa-bell-o"></em> Filing Notification System</a></li>
+                <li role="menuitem"><a class="btn" href="https://interchange.puc.texas.gov/filer" target="_blank"><em class="fa fa-file-text-o"></em> PUC Interchange Filer</a></li>
+            </ul>
+        </div>
+        <div id="layoutToolbar" class="visible-xs toolbar">
+            <ul class="nav nav-pills" role="menu">
+                <li class="dropdown">
+                    <a class="btn dropdown-toggle" data-toggle="dropdown" href="#"><em class="fa fa-bars fa-2x"></em></a>
+                    <ul class="dropdown-menu">
+                        <li role="menuitem"><a href="/"><em class="fa fa-search"></em> Filing Search</a></li>
+                        <li role="menuitem"><a href="/search/daily/"><em class="fa fa-calendar"></em> Daily Filing Search</a></li>
+                        <li role="menuitem"><a href="https://www.puc.texas.gov/industry/filings/Default.aspx"><em class="fa fa-question"></em> Learn More</a></li>
+                        <li role="menuitem"><a href="https://portal.puc.texas.gov/portal/"><em class="fa fa-bell-o"></em> Filing Notification System</a></li>
+                        <li role="menuitem"><a href="https://interchange.puc.texas.gov/filer"><em class="fa fa-file-text-o"></em> PUC Interchange Filer</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <br />
+        
+
+
+    <p><strong>Case Style</strong> &nbsp; RULEMAKING TO IMPLEMENT LARGE LOAD INTERCONNECTION STANDARDS UNDER PURA 37.0561</p>
+    <p>219 filing(s).</p>
+<table class="table table-responsive table-hover table-striped table-bordered table-condensed">
+    <tr class="pagerExportRow">
+        <td colspan="5">
+            <span style="text-align: left">
+                <div class="pagination-container"><ul class="pagination"><li class="disabled&#32;PagedList-skipToFirst"><a>««</a></li><li class="disabled&#32;PagedList-skipToPrevious"><a rel="prev">«</a></li><li class="active"><a>1</a></li><li class="disabled&#32;PagedList-skipToNext"><a rel="next">»</a></li><li class="disabled&#32;PagedList-skipToLast"><a>»»</a></li></ul></div>
+            </span>
+
+                <span style="float: right; font-weight: bold">
+                    <a href="/search/exportfilings/?ControlNumber=58481&amp;ItemMatch=0&amp;SortBy=ItemNumber&amp;SortOrder=Ascending"
+                       class="btn btn-primary">
+                        Export to Excel&nbsp;<span class="fa fa-file-excel-o" aria-hidden="true"></span>
+                    </a>
+                </span>
+        </td>
+    </tr>
+    <tr>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58481&amp;ItemMatch=0&amp;SortBy=ItemNumber&amp;SortOrder=Descending"> 
+    Item
+        <span aria-hidden="true"> &#9650;</span>
+        <span class="sr-only">sorted ascending</span>  
+</a>
+</th>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58481&amp;ItemMatch=0&amp;SortBy=FileStamp&amp;SortOrder=Ascending"> 
+    File Stamp
+</a>
+</th>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58481&amp;ItemMatch=0&amp;SortBy=FilingParty&amp;SortOrder=Ascending"> 
+    Party
+</a>
+</th>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58481&amp;ItemMatch=0&amp;SortBy=ItemType&amp;SortOrder=Ascending"> 
+    Item Type
+</a>
+</th>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58481&amp;ItemMatch=0&amp;SortBy=FilingDescription&amp;SortOrder=Ascending"> 
+    Filing Description
+</a>
+</th>
+    </tr>
+
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=1">1</a>
+                    </strong>
+            </td>
+            <td>
+                7/31/2025
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Request for Control Number
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=2">2</a>
+                    </strong>
+            </td>
+            <td>
+                9/12/2025
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Staff Memo and Questions for Comment w/Oct. 10 Comment Deadline
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=3">3</a>
+                    </strong>
+            </td>
+            <td>
+                9/24/2025
+            </td>
+            <td>
+                OPUC
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                OPUC NOTICE OF PARTICIPATION LETTER
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=4">4</a>
+                    </strong>
+            </td>
+            <td>
+                9/30/2025
+            </td>
+            <td>
+                Schaper Energy Consulting LLC
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                SCHAPER ENERGY CONSULTING LLC RESPONSE TO STAFF&#8217;s QUESTIONS ON  PROJECT NO. 58481; RULEMAKING TO IMPLEMENT LARGE LOAD INTERCONNECTION STANDARDS UNDER PURA §37.0561
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=5">5</a>
+                    </strong>
+            </td>
+            <td>
+                10/9/2025
+            </td>
+            <td>
+                Cholla, Inc.
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Cholla, Inc. Response to Staff Questions on Project No. 58481; Large Load Interconnection Framework Recommendations
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=6">6</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                TCPA
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TCPA Response to Staff Questions
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=7">7</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                EdgeConneX
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                EDGECONNEX RESPONSE TO STAFF&#8217;S QUESTIONS ON PROJECT NO. 58481; RULEMAKING TO IMPLEMENT LARGE LOAD INTERCONNECTION STANDARDS UNDER PURA §37.0561
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=8">8</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                NRG ENERGY, INC.
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                NRG Energy, Inc.&#39;s Comments on PUCT Staff&#39;s Questions
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=9">9</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                TPPA
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Texas Public Power Association (TPPA) Response to Questions for Comment
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=10">10</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                CENTERPOINT ENERGY HOUSTON ELECTRIC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of CenterPoint Energy Houston Electric, LLC
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=11">11</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                ONCOR ELECTRIC DELIVERY COMPANY LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ONCOR&#39;S RESPONSE TO COMMISSION STAFF&#8217;S FIRST SET OF QUESTIONS FOR COMMENTS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=12">12</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                LCRA TRANSMISSION SERVICE CORPORATION
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                RESPONSE TO QUESTIONS FOR COMMENT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=13">13</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                Data Center Coalition
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                DCC Comments on Project 58481, Rulemaking to Implement Large Load Interconnection Standards
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=14">14</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                EOLIAN, L.P.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Eolian, L.P.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=15">15</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                Texas Electric Cooperatives, Inc.
+            </td>
+            <td>
+                PL  
+            </td>
+            <td>
+                Responses of Texas Electric Cooperatives, Inc.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=16">16</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                SHARYLAND UTILITIES, L.L.C.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Sharyland Utilities, L.L.C&#39;s Comments to Commission Staff&#39;s Questions for Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=17">17</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                ENCHANTED ROCK, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                VOID-SEE ITEM 30
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=18">18</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                TIEC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TEXAS INDUSTRIAL ENERGY CONSUMERS&#8217; COMMENTS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=19">19</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                Eneus Energy
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Eneus Response to Staff Questions on Project No. 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=20">20</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                OPUC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                OPUC&#8217;S RESPONSES TO QUESTIONS FOR PUBLIC COMMENT RELATED TO THE IMPLEMENTATION OF PURA § 37.0561
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=21">21</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                ERCOT
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ELECTRIC RELIABILITY COUNCIL OF TEXAS, INC.&#8217;S RESPONSES TO STAFF QUESTIONS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=22">22</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                AEP TEXAS INC.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                AEP Texas Responses to Questions for Public Comment
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=23">23</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                COMPASS, Bureau of Economic Geology
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                COMMENTS OF THE BUREAU OF ECONOMIC GEOLOGY, THE UNIVERSITY OF TEXAS AT AUSTIN Filed by: COMPASS - Collaborative Optimization &amp; Management of Power Allocation &#8211; Surface &amp; Subsurface strategies
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=24">24</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                TEXAS ENERGY BUYERS ALLIANCE
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TEBA Responses to Staff Questions on Project 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=25">25</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                TESLA, INC.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TESLA comments on Project 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=26">26</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                SIERRA CLUB
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS ON LARGE LOAD INTERCONNECTION STANDARDS UNDER PURA §37.0561
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=27">27</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                TEXAS-NEW MEXICO POWER COMPANY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Texas-New Mexico Power Company&#39;s Comments to Commission Staff&#39;s Questions for Comment
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=28">28</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                LANCIUM, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Lancium Comments on Project No. 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=29">29</a>
+                    </strong>
+            </td>
+            <td>
+                10/10/2025
+            </td>
+            <td>
+                SATOSHI ENERGY CORP.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Satoshi Comments on Project No. 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=30">30</a>
+                    </strong>
+            </td>
+            <td>
+                10/14/2025
+            </td>
+            <td>
+                ENCHANTED ROCK, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Enchanted Rock, LLC&#39;s Responses to Commission Staff&#39;s Questions for Comment
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=31">31</a>
+                    </strong>
+            </td>
+            <td>
+                12/1/2025
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Discussion Draft w/12.19 Comment Deadline
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=32">32</a>
+                    </strong>
+            </td>
+            <td>
+                12/8/2025
+            </td>
+            <td>
+                Schaper Energy Consulting LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                SCHAPER ENERGY CONSULTING LLC RESPONSE TO PROJECT NO. 58481, COMMENTS TO STAFF&#8217;s QUESTIONS AND DRAFT 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=33">33</a>
+                    </strong>
+            </td>
+            <td>
+                12/16/2025
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Notice of January 9 Workshop
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=34">34</a>
+                    </strong>
+            </td>
+            <td>
+                12/16/2025
+            </td>
+            <td>
+                Cholla Petroleum, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Cholla Comments on Draft Rule
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=35">35</a>
+                    </strong>
+            </td>
+            <td>
+                12/17/2025
+            </td>
+            <td>
+                Cholla Petroleum, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Cholla Comments on Draft Rule Amended
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=36">36</a>
+                    </strong>
+            </td>
+            <td>
+                12/18/2025
+            </td>
+            <td>
+                SIERRA CLUB
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments on proposed staff draft on large load interconnection standards.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=37">37</a>
+                    </strong>
+            </td>
+            <td>
+                12/18/2025
+            </td>
+            <td>
+                Digital Power Network
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Digital Power Network comments on PUCT PROJECT NO. 58481.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=38">38</a>
+                    </strong>
+            </td>
+            <td>
+                12/18/2025
+            </td>
+            <td>
+                SIERRA CLUB
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments from Sierra Club on Large Load Interconnection Standards
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=39">39</a>
+                    </strong>
+            </td>
+            <td>
+                12/18/2025
+            </td>
+            <td>
+                FREEPORT LNG DEVELOPMENT, L.P.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Freeport LNG Development, L.P. comments to address new proposed §25.194(l).
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=40">40</a>
+                    </strong>
+            </td>
+            <td>
+                12/18/2025
+            </td>
+            <td>
+                GOOGLE LLC, LANCIUM LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Joint Comments of Google LLC and Lancium LLC to 58481 Large Load Interconnection Standards
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=41">41</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                NORTH CENTRAL TEXAS COUNCIL OF GOVERNMENTS
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                NCTCOG Comments on Draft 16 TAC §25.194 Project No 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=42">42</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                TCPA
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TCPA Comments on Staff Questions &amp; Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=43">43</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Skybox Datacenters LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Skybox Datacenters LLC to 58481 Large Load Interconnection Standards
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=44">44</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                PRIORITY POWER MANAGEMENT, LLC
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Priority Power Comments on Draft 16 TAC §25.194 Project No 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=45">45</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                TEXAS BLOCKCHAIN COUNCIL
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Project No. 58481 &#8211; Rulemaking to Implement Large Load Interconnection Standards (16 TAC §25.194) Comment Letter
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=46">46</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                MONARCH ENERGY DEVELOPMENT LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS OF MONARCH ENERGY DEVELOPMENT LLC ON STAFF&#8217;s QUESTIONS AND DISCUSSION DRAFT OF NEW 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=47">47</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Dallas County Public Works
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Dallas County Public Works Comments on Implementation of SB 6
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=48">48</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Texas Electric Cooperatives, Inc.
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Comments of Texas Electric Cooperatives, Inc.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=49">49</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                CENTERPOINT ENERGY  HOUSTON ELECTRIC, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of CenterPoint Energy Houston Electric, LLC
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=50">50</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                NRG ENERGY, INC.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                NRG Energy, Inc.&#39;s Comments on Staff&#39;s Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=51">51</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Wise Energy Resources
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Wise Energy Resources Comments on Discussion Draft and Questions
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=52">52</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                BASF
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                BASF Comments on Rule Project 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=53">53</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                LCRA TRANSMISSION SERVICES CORPORATION
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                RESPONSE TO QUESTIONS FOR COMMENT AND DRAFT NEW 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=54">54</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                THE DOW CHEMICAL COMPANY AND AFFILIATES
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                P.58481 - Dow Comments.pdf
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=55">55</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Aperture
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments on Staff new Draft 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=56">56</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Hood County Clean Air Coalition
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Hood County Clean Air Coalition Comment for Rulemaking to Implement Large Load Interconnection Standards
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=57">57</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                ERCOT STEEL MILLS
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ERCOT Steel Mills&#39; Comments on Staff&#39;s Discussion Draft for Project No. 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=58">58</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Golden Spread Electric Cooperative, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Golden Spread Electric Cooperative
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=59">59</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                TPPA
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Texas Public Power Association (TPPA) Comments on Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=60">60</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                ROWAN DIGITAL INFRASTRUCTURE LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ROWAN DIGITAL INFRASTRUCTURE LLC REPLY COMMENTS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=61">61</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                ONCOR ELECTRIC DELIVERY COMPANY LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ONCOR ELECTRIC DELIVERY&#39;S COMMENTS ON COMMISSION STAFF&#39;S RULE 25.194 DISCUSSION DRAFT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=62">62</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Provident Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Provident Inc. comments on staff discussion draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=63">63</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                TEXAS OIL &amp; GAS ASSOCIATION
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TEXAS OIL &amp; GAS ASSOCIATION&#39;S COMMENTS ON DISCUSSION DRAFT 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=64">64</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                OPUC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                OFFICE OF PUBLIC UTILITY COUNSEL&#8217;S COMMENTS ON DISCUSSION DRAFT AND QUESTIONS FOR PUBLIC COMMENTS RELATED TO NEW 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=65">65</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                TIEC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TEXAS INDUSTRIAL ENERGY CONSUMERS&#8217; COMMENTS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=66">66</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Data Center Coalition
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                DCC&#39;s Comments on the Discussion Draft (Project 58481)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=67">67</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                INFINIUM OPERATIONS, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                INFINIUM&#39;S COMMENTS ON LARGE LOAD INTERCONNECTION STANDARDS DISCUSSION DRAFT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=68">68</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Eolian, L.P.
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Eolian, L.P.&#39;s Second Set of Comments on Rulemaking
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=69">69</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Splight Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                SPLIGHT COMMENTS ON STAFF&#39;S DRAFT DISCUSSION RULE § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=70">70</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                CROSS TEXAS TRANSMISSION, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Cross Texas Transmission, LLC
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=71">71</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                AEP TEXAS INC.
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                AEP TEXAS INC.&#8217;S COMMENTS ON STAFF DISCUSSION DRAFT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=72">72</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Targa Resources LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Targa Resources LLC&#39;s Comments in Response to Commission Staff&#39;s Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=73">73</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                TEXAS-NEW MEXICO POWER COMPANY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Texas-New Mexico Power Company&#8217;s Comments To Commission Staff&#8217;s Questions For Comment On Draft New 16 Tac § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=74">74</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                OCCIDENTAL PERMIAN LTD
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Occidental Permian, LTD. Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=75">75</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                CRUSOE ENERGY SYSTEMS LLC
+            </td>
+            <td>
+                PL  
+            </td>
+            <td>
+                CRUSOE ENERGY SYSTEMS LLC&#8217;S COMMENTS ON STAFF&#8217;S DRAFT DISCUSSION RULE 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=76">76</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                ERCOT
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ELECTRIC RELIABILITY COUNCIL OF TEXAS, INC.&#8217;S COMMENTS ON DISCUSSION DRAFT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=77">77</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                SATOSHI ENERGY CORP.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                SATOSHI ENERGY COMMENTS ON DRAFT NEW 16 TAC §25.194 ON PROJECT NO. 58481, RULEMAKING TO  IMPLEMENT LARGE LOAD INTERCONNECTION STANDARDS UNDER PURA §37.0561
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=78">78</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                TEXAS ENERGY BUYERS ALLIANCE
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TEBA&#39;s Comments on Commission Staff&#39;s Questions and Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=79">79</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                BLACK MOUNTAIN POWER
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                BLACK MOUNTAIN POWER COMMENTS ON PROJECT NO. 58481 DISCUSSION DRAFT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=80">80</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Exxon Mobil Corporation
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Exxon Mobil Corporation comments on 58481 Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=81">81</a>
+                    </strong>
+            </td>
+            <td>
+                12/19/2025
+            </td>
+            <td>
+                Soluna Digital
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                SOLUNA DIGITAL&#8217;S SUPPORTIVE COMMENTS FOR COMMENTS SUBMITTED BY SATOSHI ENERGY ON STAFF&#39;S DISCUSSION DRAFT NEW 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=82">82</a>
+                    </strong>
+            </td>
+            <td>
+                1/2/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Staff Memo and January 9 Workshop Agenda w/Attachments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=83">83</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                SATOSHI ENERGY CORP.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                SATOSHI ENERGY COMMENTS ON STAFF&#39;S SECOND DISCUSSION DRAFT ON PROJECT NO. 58481, RULEMAKING TO  IMPLEMENT LARGE LOAD INTERCONNECTION STANDARDS UNDER PURA §37.0561
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=84">84</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                CRUSOE ENERGY SYSTEMS LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                CRUSOE ENERGY SYSTEMS LLC&#8217;S COMMENTS ON STAFF&#8217;S SECOND DRAFT DISCUSSION RULE 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=85">85</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                TIEC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TEXAS INDUSTRIAL ENERGY CONSUMERS&#8217; COMMENTS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=86">86</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                Cormint
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Existing load increases are inherently not speculative
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=87">87</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                GOOGLE LLC, LANCIUM LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Google and Lancium Joint Comments to STaff Questions and 2nd Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=88">88</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                TEXAS ELECTRIC COOPERATIVES, INC.
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                POST-WORKSHOP COMMENTS OF TEXAS ELECTRIC COOPERATIVES, INC.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=89">89</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                SERENA ENERGY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS OF SERENA ENERGY
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=90">90</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                CENTERPOINT ENERGY HOUSTON ELECTRIC
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Comments of CenterPoint Energy Houston Electric, LLC
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=91">91</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                Sierra Club
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Further comments from Sierra Club on Large Load Interconnection Standards
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=92">92</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                ELECTRIC TRANSMISSION TEXAS, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ETT&#8217;S COMMENTS ON STAFF&#8217;S 2ND DISCUSSION DRAFT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=93">93</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                CPS ENERGY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                CPS Energy&#39;s Response to Questions for Comment
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=94">94</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                ROWAN DIGITAL INFRASTRUCTURE LLC
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Comments on Staff&#39;s Second Draft Discussion Rule in 16 TAC 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=95">95</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                ONCOR ELECTRIC DELIVERY COMPANY LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ONCOR ELECTRIC DELIVERY&#8217;S COMMENTS ON COMMISSION STAFF&#8217;S SECOND RULE 25.194 DISCUSSION DRAFT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=96">96</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                BLACK MOUNTAIN POWER
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                BLACK MOUNTAIN POWER COMMENTS ON PROJECT NO. 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=97">97</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                AEP TEXAS INC.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                AEP TEXAS&#39; COMMENTS ON STAFF&#8217;S SECOND DISCUSSION DRAFT
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=98">98</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                Data Center Coalition
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Additional Comment&#39;s on Second Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=99">99</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                SCHAPER ENERGY CONSULTING LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Project No. 58481_Schaper Energy Consulting_Supplemental Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=100">100</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                OPUC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                OPUC&#8217;S COMMENTS ON STAFF&#8217;S SECOND SET OF QUESTIONS FOR PUBLIC COMMENT AND SECOND DISCUSSION DRAFT RELATED TO NEW 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=101">101</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                CITY OF RED OAK
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                City of Red Oak Comments on the 2nd Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=102">102</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                TEXAS BLOCKCHAIN COUNCIL
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Feedback Post January 9, 2026 PUC Hearing Regarding PUCT Project No. 58481 (Large Load Interconnection Standards)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=103">103</a>
+                    </strong>
+            </td>
+            <td>
+                1/16/2026
+            </td>
+            <td>
+                Cholla, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Cholla on Revised Draft Rule.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=104">104</a>
+                    </strong>
+            </td>
+            <td>
+                1/17/2026
+            </td>
+            <td>
+                Tract
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Tract Post-Workshop Comments on Staff&#39;s Second Discussion Draft
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=105">105</a>
+                    </strong>
+            </td>
+            <td>
+                1/20/2026
+            </td>
+            <td>
+                TEXAS-NEW MEXICO POWER COMPANY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Texas-New Mexico Power Company
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=106">106</a>
+                    </strong>
+            </td>
+            <td>
+                2/12/2026
+            </td>
+            <td>
+                Leaptran, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Leaptran, Inc.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=107">107</a>
+                    </strong>
+            </td>
+            <td>
+                2/13/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                OM Item No. 27 - Staff Memo &amp; PFP w/March 27 Comment Deadline
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=108">108</a>
+                    </strong>
+            </td>
+            <td>
+                2/17/2026
+            </td>
+            <td>
+                Cholla, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments regarding Fee recommendation by Staff
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=109">109</a>
+                    </strong>
+            </td>
+            <td>
+                2/18/2026
+            </td>
+            <td>
+                SCHAPER ENERGY CONSULTING LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                SCHAPER ENERGY ENERGY CONSULTING  COMMENTS TO STAFF DISCUSSION DRAFT 16 (TAC) §25.194 DATED FEBRUARY 13, 2026
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=110">110</a>
+                    </strong>
+            </td>
+            <td>
+                2/19/2026
+            </td>
+            <td>
+                Google LLC, Lancium LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Google and Lancium Joint Comments to Proposed PFP
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=111">111</a>
+                    </strong>
+            </td>
+            <td>
+                2/26/2026
+            </td>
+            <td>
+                Luminary Strategies,LLC
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Speed to Power Concept Paper for ERCOT Large Load Batch Study Proceedings
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=112">112</a>
+                    </strong>
+            </td>
+            <td>
+                3/4/2026
+            </td>
+            <td>
+                IREN
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                IREN Comments on Proposed PFP
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=113">113</a>
+                    </strong>
+            </td>
+            <td>
+                3/4/2026
+            </td>
+            <td>
+                Monarch Energy Development LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Monarch Energy Comments on Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=114">114</a>
+                    </strong>
+            </td>
+            <td>
+                3/4/2026
+            </td>
+            <td>
+                Provident, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Provident, Inc. Comments on Proposed Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=115">115</a>
+                    </strong>
+            </td>
+            <td>
+                3/10/2026
+            </td>
+            <td>
+                GOOGLE LLC, LANCIUM LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                JOINT REDLINES FOR THE PROPOSED PROPOSAL FOR PUBLICATION
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=116">116</a>
+                    </strong>
+            </td>
+            <td>
+                3/11/2026
+            </td>
+            <td>
+                Cipher Digital
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                CIPHER DIGITAL INC. COMMENTS TO STAFF PROPOSED PROPOSAL FOR PUBLICATION
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=117">117</a>
+                    </strong>
+            </td>
+            <td>
+                3/11/2026
+            </td>
+            <td>
+                EdgeConnex
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                EDGECONNEX COMMENTS TO STAFF&#39;S PROPOSED PROPOSAL FOR PUBLICATION
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=118">118</a>
+                    </strong>
+            </td>
+            <td>
+                3/11/2026
+            </td>
+            <td>
+                PUC OPDM
+            </td>
+            <td>
+                PL  
+            </td>
+            <td>
+                CHAIRMAN GLEESON MEMORANDUM
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=119">119</a>
+                    </strong>
+            </td>
+            <td>
+                3/11/2026
+            </td>
+            <td>
+                Engine 1
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Engine 1&#39;s Comments on PUCT Staff&#39;s Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=120">120</a>
+                    </strong>
+            </td>
+            <td>
+                3/11/2026
+            </td>
+            <td>
+                Hut 8 Corp
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Hut 8 Comments on Staff&#39;s Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=121">121</a>
+                    </strong>
+            </td>
+            <td>
+                3/11/2026
+            </td>
+            <td>
+                Nightpeak Energy
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Nightpeak Energy Comments on Staff&#39;s Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=122">122</a>
+                    </strong>
+            </td>
+            <td>
+                3/12/2026
+            </td>
+            <td>
+                PUC OPDM
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                PROPOSAL FOR PUBLICATION OF NEW 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=123">123</a>
+                    </strong>
+            </td>
+            <td>
+                3/12/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Texas Register Acknowledgement of Receipt - Comments Due 04/17/2026
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=124">124</a>
+                    </strong>
+            </td>
+            <td>
+                3/16/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Staff Memo w/MS Word Version of PFP
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=125">125</a>
+                    </strong>
+            </td>
+            <td>
+                3/19/2026
+            </td>
+            <td>
+                MONARCH ENERGY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Monarch Energy Additional Comments on Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=126">126</a>
+                    </strong>
+            </td>
+            <td>
+                3/19/2026
+            </td>
+            <td>
+                Serena Power
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Serena Power Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=127">127</a>
+                    </strong>
+            </td>
+            <td>
+                3/20/2026
+            </td>
+            <td>
+                VISTRA CORP.
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Vistra Corp.&#39;s Comments on Planning Guide Revision Request 145 for Project 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=128">128</a>
+                    </strong>
+            </td>
+            <td>
+                3/27/2026
+            </td>
+            <td>
+                Cipher Digital
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Cipher Digital Comments on PUC Docket 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=129">129</a>
+                    </strong>
+            </td>
+            <td>
+                3/29/2026
+            </td>
+            <td>
+                SCHAPER ENERGY CONSULTING LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                PUC Project No. 58481 - Interconnection Agreement Standards Applicability to Batch Zero
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=130">130</a>
+                    </strong>
+            </td>
+            <td>
+                3/30/2026
+            </td>
+            <td>
+                Jason Buster
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments on Proposal for Publication of 16 TAC §25.194 &#8211; Project No. 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=131">131</a>
+                    </strong>
+            </td>
+            <td>
+                3/31/2026
+            </td>
+            <td>
+                SCHAPER ENERGY CONSULTING LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Project No. 58481 PFP Comments and Proposed Draft Redlines
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=132">132</a>
+                    </strong>
+            </td>
+            <td>
+                4/6/2026
+            </td>
+            <td>
+                Competitive Power Ventures
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                CPV Comments on Proposal for Publication of 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=133">133</a>
+                    </strong>
+            </td>
+            <td>
+                4/7/2026
+            </td>
+            <td>
+                Cholla, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Cholla comments on Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=134">134</a>
+                    </strong>
+            </td>
+            <td>
+                4/9/2026
+            </td>
+            <td>
+                VISTRA CORP.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Vistra Corp.&#39;s Additional Comments on Planning Guide Revision Request 145 for Project 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=135">135</a>
+                    </strong>
+            </td>
+            <td>
+                4/10/2026
+            </td>
+            <td>
+                SKYBOX DATACENTERS, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Skybox Datacenters, LLC&#39;s Initial Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=136">136</a>
+                    </strong>
+            </td>
+            <td>
+                4/10/2026
+            </td>
+            <td>
+                Zachary Butler, Blind Mice Labs
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public Comment on SB 6 Large-Load Interconnection Standards &#8212; Satellite-Based Evidence of Data Center Roof Thermal Degradation and Grid Demand Impact (403 TX Facilities, 27M SF, $101M Annual Energy Waste, 247M Gallons Avoidable Water)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=137">137</a>
+                    </strong>
+            </td>
+            <td>
+                4/10/2026
+            </td>
+            <td>
+                Zachary Butler, Blind Mice Labs
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Supplemental Filing &#8212; Revised 2-Page Summary  (Corrects and supersedes initial filing FCROOJZE dated 4/10/2026)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=138">138</a>
+                    </strong>
+            </td>
+            <td>
+                4/12/2026
+            </td>
+            <td>
+                Zack Butler | EnerShield AI | Blind Mice Labs
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Supplemental Comments and Request for Public Hearing of Zack Butler / EnerShield AI Regarding Passive Infrastructure Degradation and ERCOT Coincident Peak Demand &#8212; Supersedes Item No. 136
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=139">139</a>
+                    </strong>
+            </td>
+            <td>
+                4/13/2026
+            </td>
+            <td>
+                AEP COMPANIES
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                AEP COMPANIES&#8217; COMMENTS ON COMMISSION&#8217;S PROPOSAL FOR PUBLICATION
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=140">140</a>
+                    </strong>
+            </td>
+            <td>
+                4/13/2026
+            </td>
+            <td>
+                CCNG, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                CCNG Comments and Redlines for the Proposal for Publication in Project 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=141">141</a>
+                    </strong>
+            </td>
+            <td>
+                4/13/2026
+            </td>
+            <td>
+                Tract Holding Company I, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TRACT HOLDING COMPANY I, LLC&#8217;S COMMENTS ON THE COMMISSION&#8217;S PROPOSAL FOR PUBLICATION TO IMPLEMENT LARGE LOAD INTERCONNECTION STANDARDS  (&#8220;STANDARDS&#8221;)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=142">142</a>
+                    </strong>
+            </td>
+            <td>
+                4/14/2026
+            </td>
+            <td>
+                SARAH DUNHAM
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Project# Rule 25.194 The people demand full and extensive transparency on all water and gas studies, usage records and future plans pertaining to industrial use especially for large scale data centers in bell county
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=143">143</a>
+                    </strong>
+            </td>
+            <td>
+                4/14/2026
+            </td>
+            <td>
+                Zack Butler / EnerShield AI
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Supplemental Filing &#8212; Environmental Justice Findings, supplement to FCROOJZE and IYFIPWNQ
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=144">144</a>
+                    </strong>
+            </td>
+            <td>
+                4/14/2026
+            </td>
+            <td>
+                HUT 8 CORP
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                HUT 8 COMMENTS ON PUC PROPOSAL FOR PUBLICATION
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=145">145</a>
+                    </strong>
+            </td>
+            <td>
+                4/14/2026
+            </td>
+            <td>
+                INTERSECT POWER, LLC.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Intersect Power, LLC&#39;s Initial Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=146">146</a>
+                    </strong>
+            </td>
+            <td>
+                4/15/2026
+            </td>
+            <td>
+                Zack Butler | EnerShield AI
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Suplement filing to comment XYAWFICE - Updated analytic methodology attribution of SVI/TRI addition to research
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=147">147</a>
+                    </strong>
+            </td>
+            <td>
+                4/15/2026
+            </td>
+            <td>
+                LOWER COLORADO RIVER AUTHORITY AND LCRA TRANSMISSION SERVICES CORPORATION
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS ON THE PROPOSAL FOR PUBLICATION
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=148">148</a>
+                    </strong>
+            </td>
+            <td>
+                4/15/2026
+            </td>
+            <td>
+                CENTERPOINT ENERGY  HOUSTON ELECTRIC, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS OF CENTERPOINT ENERGY HOUSTON ELECTRIC, LLC
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=149">149</a>
+                    </strong>
+            </td>
+            <td>
+                4/15/2026
+            </td>
+            <td>
+                Cholla, Inc.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Cholla, Inc. Supplemental Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=150">150</a>
+                    </strong>
+            </td>
+            <td>
+                4/15/2026
+            </td>
+            <td>
+                MONARCH ENERGY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Monarch Energy Comments on Proposed New 16 TAC 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=151">151</a>
+                    </strong>
+            </td>
+            <td>
+                4/15/2026
+            </td>
+            <td>
+                STACK Infrastructure
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                STACK INFRASTRUCTURE COMMENTS TO PROPOSAL FOR PUBLICATION IN PROJECT NO. 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=152">152</a>
+                    </strong>
+            </td>
+            <td>
+                4/15/2026
+            </td>
+            <td>
+                Sierra Club
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Sierra Club Comments on Proposed Large Load Interconnection Standards
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=153">153</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                Eolic Development Partners
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Eolic Development Partners Comments on Proposed New 16 TAC 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=154">154</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                DC Energy Texas, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS OF DC ENERGY TEXAS, LLC
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=155">155</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                HIF USA LLC
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                PROJECT NO 58481 - HIF USA LLC Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=156">156</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                SATOSHI ENERGY CORP.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                SATOSHI ENERGY COMMENTS ON STAFF&#39;S PROPOSAL FOR PUBLICATION ON PROJECT NO. 58481, RULEMAKING TO IMPLEMENT LARGE LOAD INTERCONNECTION STANDARDS UNDER PURA §37.0561
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=157">157</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                The City of Bryan, Texas
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Letter from the City of Bryan Mayor to the Public Utilities Commission of Texas regarding Large Load Interconnection Rules
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=158">158</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                LANDMARK DEVELOPMENT SERVICES AND ECOPARTNER ALLIANCE
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS OF LANDMARK DEVELOPMENT SERVICES LLC AND ECOPARTNER ALLIANCE ON PROPOSED 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=159">159</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                INFINIUM OPERATIONS, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                INFINIUM&#39;S COMMENTS ON LARGE LOAD INTERCONNECTION STANDARDS PROPOSAL FOR PUBLICATION
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=160">160</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                PRIORITY POWER MANAGEMENT LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS OF PRIORITY POWER MANAGEMENT LLC ON PROPOSED NEW 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=161">161</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                Agentic Infrastructure LLC
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Agentic Infrastructure (&quot;Agentic&quot;) comments regarding project no.58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=162">162</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                TCPA
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TCPA Comments on Large Load Interconnection PfP &amp; Issues
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=163">163</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                Electric Hydrogen Co.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Electric Hydrogen Comments on Proposed 16 TAC 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=164">164</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                HUNT ENERGY NETWORK L.L.C.
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                HUNT ENERGY NETWORK&#39;S COMMENTS ON COMMISSION&#8217;S PROPOSAL FOR PUBLICATION
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=165">165</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                GOOGLE LLC, LANCIUM LLC, TOTALENERGIES RENEWABLES USA
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Joint Comments of Google LLC, Lancium LLC, and TotalEnergies Renewables USA
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=166">166</a>
+                    </strong>
+            </td>
+            <td>
+                4/16/2026
+            </td>
+            <td>
+                TEXAS ENERGY BUYERS ALLIANCE
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TEBA&#39;s Comments on Commission Staff&#39;s  Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=167">167</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                VOLTUS, INC.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                VOLTUS COMMENTS ON LARGE LOAD INTERCONNECTION STANDARDS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=168">168</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Advanced Power Alliance and American Clean Power Association
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of the Advanced Power Alliance and American Clean Power Association
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=169">169</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Trammell Crow Company
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Trammell Crow Company&#39;s Comments on Proposal for Publication of 16 TAC§ 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=170">170</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                House State Affairs Committee
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                SB 6 Implementation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=171">171</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Serena Power
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Additional Comments of Serena Power on Proposed New 16 TAC 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=172">172</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                ENVIRONMENTAL DEFENSE FUND INC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                EDF Comments on Large Load Interconnection Standards - PUCT 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=173">173</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                NRG ENERGY INC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                PUCT 58481 Large Load Interconnection Standards PfP - NRG Comments - FINAL
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=174">174</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                TPPA
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Texas Public Power Association (TPPA) Comments on PFP
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=175">175</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Targa Resources LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Targa Resources LLC&#39;s Comments and Proposed Redlines in Response to Proposal for Publication of 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=176">176</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Permian Basin Petroleum Association
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Permian Basin Petroleum Association&#39;s Comments in Response to Proposal for Publication of 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=177">177</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                BLACK MOUNTAIN POWER
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                BLACK MOUNTAIN POWER COMMENTS ON PROJECT NO. 58481 PROPOSAL FOR PUBLICATION
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=178">178</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                CONSTELLATION ENERGY GENERATION, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                CONSTELLATION ENERGY GENERATION, LLC&#8217;S COMMENTS ON COMMISSION STAFF&#8217;S PROPOSAL FOR PUBLICATION OF NEW 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=179">179</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                ROWAN DIGITAL INFRASTRUCTURE LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ROWAN DIGITAL INFRASTRUCTURE LLC COMMENTS ON PROPOSAL FOR PUBLICATION OF NEW 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=180">180</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Data Center Coalition (DCC)
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments on Proposal for Publication on Proposed New 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=181">181</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Crow Holdings
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                INITIAL COMMENTS OF CROW HOLDINGS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=182">182</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                TEXAS ELECTRIC COOPERATIVES, INC.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Texas Electric Cooperatives, Inc.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=183">183</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                STEERING COMMITTEE OF CITIES SERVED BY ONCOR AND TEXAS COALITION FOR AFFORDABLE POWER
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                The Steering Committee of Cities Served by Oncor and Texas Coalition for Affordable Power&#39;s Comments on Proposal for Publication of New 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=184">184</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                ONCOR ELECTRIC DELIVERY COMPANY LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ONCOR ELECTRIC DELIVERY&#39;S COMMENTS ON THE PROPOSAL FOR PUBLICATION OF NEW 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=185">185</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                ERCOT STEEL MILLS
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                ERCOT Steel Mills Comments on Proposal for Publication of New Rule 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=186">186</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                CloudHQ LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                CloudHQ LLC&#39;s Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=187">187</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                EOLIAN, L.P.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS OF EOLIAN, L.P. ON PROPOSED NEW 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=188">188</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                TEXAS OIL &amp; GAS ASSOCIATION
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TXOGA Comments on Proposal for Publication on Proposed New 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=189">189</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                GUADALUPE VALLEY ELECTRIC COOPERATIVE, INC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                GVEC&#39;s Comments on Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=190">190</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Texas Public Policy Foundation
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Texas Public Policy Foundation&#39;s Comments on the Proposed New 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=191">191</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Thor Equities LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Thor Equities&#8217; Comments on PUCT Staff&#8217;s Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=192">192</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                TESLA
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Tesla, Inc. Comments on Proposal for Publication on Proposed New 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=193">193</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                TIEC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TEXAS INDUSTRIAL ENERGY CONSUMERS&#8217; PROPOSED COMMENTS TO PROPOSAL FOR PUBLICATION OF NEW 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=194">194</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                WIND ENERGY TRANSMISSION TEXAS, LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Joint TSPs&#8217; Comments on Proposal for Publication
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=195">195</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                OPUC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                OPUC&#8217;S COMMENTS REGARDING THE PROPOSAL FOR PUBLICATION OF NEW 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=196">196</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                BKV Corporation
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                58481 - BKV Initial Comments (04.17.26)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=197">197</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                TEXAS-NEW MEXICO POWER COMPANY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                TNMP&#8217;s Comments To Proposal For Publication Of New 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=198">198</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                BRAZOS ELECTRIC POWER COOPERATIVE, INC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Transmission Service Provider Cooperatives
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=199">199</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                Crusoe Technologies LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                CRUSOE TECHNOLOGIES LLC&#8217;S COMMENTS ON STAFF&#8217;S PROPOSAL FOR PUBLICATION OF NEW 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=200">200</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                VISTRA CORPORATE SERVICES COMPANY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Vistra&#39;s Comments - Project 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=201">201</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                MISSION POWER
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                BRIEF COMMENTS IN SUPPORT OF CHAIRMAN GLEESON&#39;S &quot;GRADUAL ESCALATOR FRAMEWORK&quot; FOR GRADUAL POSTING OF THE $50,000 IA SECURITY POSTING
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=202">202</a>
+                    </strong>
+            </td>
+            <td>
+                4/18/2026
+            </td>
+            <td>
+                Aurora Jean Brown
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Supplemental Public Comment regarding Project 58481 - Utility Telemetry and Grid Stability.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=203">203</a>
+                    </strong>
+            </td>
+            <td>
+                4/20/2026
+            </td>
+            <td>
+                Cormint Data Systems
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Cormint Data Systems Comments on Staff PforP in 58481
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=204">204</a>
+                    </strong>
+            </td>
+            <td>
+                8/24/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                VOID SEE ITEM 205
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=205">205</a>
+                    </strong>
+            </td>
+            <td>
+                8/24/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Memo Requesting CR Void Item No. 204
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=206">206</a>
+                    </strong>
+            </td>
+            <td>
+                8/24/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Staff Memo w/Draft Recommended Changes to Proposed Rule
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=207">207</a>
+                    </strong>
+            </td>
+            <td>
+                9/2/2026
+            </td>
+            <td>
+                Great Bay Royalties
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                Letter Regarding Proposed New 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=208">208</a>
+                    </strong>
+            </td>
+            <td>
+                9/3/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                OM Item No. 24 - (Staff Recommendation) Order Adopting New §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=209">209</a>
+                    </strong>
+            </td>
+            <td>
+                9/4/2026
+            </td>
+            <td>
+                Bailey Wells
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                 Public Comment by residential ratepayer opposing local transmission cost socialization for the Louetta Road data center development under SB 6 rules.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=210">210</a>
+                    </strong>
+            </td>
+            <td>
+                9/4/2026
+            </td>
+            <td>
+                Clinton Brooks Herman
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Re: Project No. 58481 - Large Load Interconnection Standards
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=211">211</a>
+                    </strong>
+            </td>
+            <td>
+                9/8/2026
+            </td>
+            <td>
+                VISTRA CORPORATE SERVICES COMPANY
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Vistra&#39;s Comments on Project 58481 Recommended Adoption Order
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=212">212</a>
+                    </strong>
+            </td>
+            <td>
+                9/9/2026
+            </td>
+            <td>
+                Soluna Holdings
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                SOLUNA HOLDINGS, INC. COMMENTS TO PROPOSAL FOR ADOPTION OF NEW 16 TAC § 25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=213">213</a>
+                    </strong>
+            </td>
+            <td>
+                9/9/2026
+            </td>
+            <td>
+                Good Company Associates
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                GOOD COMPANY ASSOOCIATES COMMENTS ON THE COMMISSION&#8217;S PROPOSAL FOR ADOPTION (PFA)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=214">214</a>
+                    </strong>
+            </td>
+            <td>
+                9/9/2026
+            </td>
+            <td>
+                SATOSHI ENERGY CORP.
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                SATOSHI ENERGY COMMENTS ON STAFF&#39;S RECOMMENDED ADOPTION ORDER ON PROJECT NO. 58481, RULEMAKING TO  IMPLEMENT LARGE LOAD INTERCONNECTION STANDARDS UNDER PURA §37.0561
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=215">215</a>
+                    </strong>
+            </td>
+            <td>
+                9/9/2026
+            </td>
+            <td>
+                Lancium LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments of Lancium LLC on Project 58481 Recommended Adoption Order
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=216">216</a>
+                    </strong>
+            </td>
+            <td>
+                9/10/2026
+            </td>
+            <td>
+                McAdams Energy Group
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                COMMENTS OF MCADAMS ENERGY GROUP ON STAFF&#8217;S RECOMMENDED ADOPTION ORDER
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=217">217</a>
+                    </strong>
+            </td>
+            <td>
+                9/14/2026
+            </td>
+            <td>
+                PROJECT NO. 58481
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                PUBLIC COMMENT &#8211; PROJECT NO. 58481 Rulemaking to Implement Large Load Interconnection Standards Under PURA §37.0561
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=218">218</a>
+                    </strong>
+            </td>
+            <td>
+                9/18/2026
+            </td>
+            <td>
+                PUC OPDM
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                ORDER ADOPTING NEW 16 TAC §25.194
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58481&amp;itemNumber=219">219</a>
+                    </strong>
+            </td>
+            <td>
+                9/18/2026
+            </td>
+            <td>
+                RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Texas Register Acknowledgement of Receipt - Effective 10.08.2026
+            </td>
+        </tr>
+    <tr class="pagerExportRow">
+        <td colspan="5">
+            <span style="text-align: left">
+                <div class="pagination-container"><ul class="pagination"><li class="disabled&#32;PagedList-skipToFirst"><a>««</a></li><li class="disabled&#32;PagedList-skipToPrevious"><a rel="prev">«</a></li><li class="active"><a>1</a></li><li class="disabled&#32;PagedList-skipToNext"><a rel="next">»</a></li><li class="disabled&#32;PagedList-skipToLast"><a>»»</a></li></ul></div>
+            </span>
+
+                <span style="float: right; font-weight: bold">
+                    <a href="/search/exportfilings/?ControlNumber=58481&amp;ItemMatch=0&amp;SortBy=ItemNumber&amp;SortOrder=Ascending"
+                       class="btn btn-primary">
+                        Export to Excel&nbsp;<span class="fa fa-file-excel-o" aria-hidden="true"></span>
+                    </a>
+                </span>
+        </td>
+    </tr>
+</table>
+
+    </div>
+    </div>
+    <footer class="hidden-print">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 col-sm-5">
+                    <h5>Public Utility Commission of Texas</h5>
+                    <address>
+                        1701 N. Congress Ave.<br />
+                        PO Box 13326 <br />
+                        Austin, TX 78711-3326
+                    </address>
+                    <address>
+                        <div>
+                            <a href="tel://1-512-936-7000"><span class="fa fa-phone"></span><abbr title="Phone"></abbr> &nbsp; 512-936-7000</a>
+                        </div>
+                        <div>
+                            <a href="https://www.puc.texas.gov/agency/about/contact/Default.aspx"><span class="fa fa-at"></span> &nbsp; Contact Us</a>
+                        </div>
+                    </address>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <h5>AGENCY INFO</h5>
+                    <ul class="list-unstyled">
+                        <li><a title="Site Policies" href="http://www.puc.texas.gov/agency/about/policies/Default.aspx">Site Policies</a></li>
+                        <li><a title="Sitemap" href="http://www.puc.texas.gov/agency/Sitemap.aspx">Sitemap</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <h5>OTHER GOVERNMENT RESOURCES</h5>
+                    <ul class="list-unstyled">
+                        <li><a title="Report Fraud, Waste or Abuse" href="http://sao.fraud.state.tx.us/">Report Fraud, Waste or Abuse</a></li>
+                        <li><a title="Texas Homeland Security" href="http://governor.state.tx.us/homeland">Texas Homeland Security</a></li>
+                        <li><a title="Ready.gov" href="http://www.ready.gov/">Ready.gov</a></li>
+                        <li><a title="Texas Online" href="http://texas.gov">Texas.gov</a></li>
+                        <li><a title="Texas Veterans" href="https://veterans.portal.texas.gov/">Texas Veterans</a></li>
+                        <li><a title="TRAIL" href="https://www.tsl.state.tx.us/trail/index.html">TRAIL</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <nav>
+                        <ul class="list-inline list-unstyled">
+                            <li>
+                                <a href="http://www.puc.texas.gov/agency/calendar/GetCalendarRss.aspx" title="" aria-label="PUC Calendar RSS Feed">
+                                    <span class="fa fa-rss-square fa-2x"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.facebook.com/pages/Public-Utility-Commission-of-Texas/207063229365425" title="" aria-label="Facebook">
+                                    <span class="fa fa-facebook-square fa-2x"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/PUCTx" title="" aria-label="Twitter">
+                                    <span class="fa fa-twitter-square fa-2x"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <span>Copyright &copy; 2026 Public Utility Commission of Texas</span><br />
+                    <span>Version 2.2.11.0</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/bundles/jquery?v=235DeCRyc2KKtm5-u-WowaGmWHU3ft44y448NxHpMf41"></script>
+
+    
+    <script src="/bundles/bootstrap?v=7k-mK_Lw6GRA4MkvIrgrWipUHc3KUDohIwN2DDpspCI1"></script>
+
+    <script src="/bundles/jqueryui?v=hw6jcrpF2LibSX_LeceAnPEcB9rROmvBBgAybQbkxRw1"></script>
+
+    <script src="/bundles/jqueryval?v=LrAZb_GsdYxwaNya0KRkergsGqN8vM0cwGeAR9hjPZI1"></script>
+
+
+    <script type="text/javascript">
+        var $buoop = { notify: { e: 10, f: -4, o: -4, s: -2, c: -4 }, insecure: true, unsupported: true, api: 5 };
+
+        function $buo_f() {
+            var e = document.createElement("script");
+            e.src = "https://browser-update.org/update.min.js";
+            document.body.appendChild(e);
+        };
+
+        try {
+            document.addEventListener("DOMContentLoaded", $buo_f, false);
+        } catch (e) {
+            window.attachEvent("onload", $buo_f);
+        }
+        
+        if (!Modernizr.inputtypes.date) {
+            $(function () {
+                $(".datecontrol").datepicker();
+            });
+        }
+    </script>
+
+    
+</body>
+</html>

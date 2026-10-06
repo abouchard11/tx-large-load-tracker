@@ -1,0 +1,2198 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+    <meta http-equiv="x-ua-compatible" content="IE=Edge">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="cache-control" content="no-cache, must-revalidate">
+    <meta http-equiv="expires" content="0">
+    <meta name="title" content="Interchange Search">
+    <meta name="description" content="Public Utility Commission of Texas Interchange Search">
+    <meta name="keywords" content="Austin, Texas, Public Utility Commission, PUC, PUCT, Interchange">
+    
+    <title>Interchange - Filings</title>
+    <link rel="icon" href="/favicon.ico" />
+    <link href="/Content/css?v=_J--WzTqgXpBySvpm_jS9qSnupz7IjYmM-KNORJAzpw1" rel="stylesheet"/>
+
+    <link href="/Content/themes/base/css?v=i7BOC3S3137TEzZVBFmOebNbXdz0DQAHpplKmp0vqfc1" rel="stylesheet"/>
+
+    <link href="/Content/themes/base/datepicker.css" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-21943797-4', 'texas.gov');
+ga('send', 'pageview');
+</script>
+
+</head>
+<body>
+    
+    <a href="#main" class="sr-only sr-only-focusable">Skip to main content</a>
+    <div id="bodyWrapper">
+        <header class="hidden-xs navbar navbar-fixed-top" role="navigation">
+            <a href="https://www.puc.texas.gov/"><img src="/Content/images/logoSeal.png" style="height: 136px; padding-left: 7px; padding-top: 7px; position: relative; float: left;" /></a>
+            <div style="height: 144px; background-color: #3f51b5; padding-left: 155px; padding-top: 25px;">
+                <span style="color: white; font-size: xx-large; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif">Public Utility Commission of Texas</span><br/>
+                <span style="color: white; font-size: x-large; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Interchange Filing Search</span>
+            </div>
+        </header>
+        <header class="visible-xs navbar navbar-fixed-top" role="navigation">
+            <div class="container-fluid" style="height: 80px; background-color: #3f51b5; padding-top: 20px; padding-left: 10px;">
+                <span class="smallHeader">Public Utility Commission of Texas</span>
+            </div>
+        </header>
+        
+
+
+
+    <div id="main" role="main" class="container body-content">
+        <noscript>
+    <br/>
+    <br />
+    <div class="row"> 
+        <div class="col-md-12">
+            <div class="alert alert-warning" role="alert">
+                <div class="row">
+                    <div class="col-md-1">
+                        <img src='/Content/images/Warning-Message.png' alt="triangle with exclamation mark." style="vertical-align: middle;" />
+                    </div>
+                    <div class="col-md-11">
+                        This page requires JavaScript to be enabled. Either your browser does not support
+                        JavaScript or you have disabled it. Please enable it or use a browser that can support it.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</noscript>
+        <div class="layoutHeader"> 
+            <br /><h1>Filings for 58317</h1>
+        </div>
+        <br />
+        <div id="layoutToolbar" class="hidden-xs toolbar">
+            <ul class="nav nav-pills" role="menu">
+                <li role="menuitem"><a class="btn" href="/"><em class="fa fa-search"></em> Filing Search</a></li>
+                <li role="menuitem"><a class="btn" href="/search/daily/"><em class="fa fa-calendar"></em> Daily Filing Search</a></li>
+                <li role="menuitem"><a class="btn" href="https://www.puc.texas.gov/industry/filings/Default.aspx" target="_blank"><em class="fa fa-question"></em> Learn More</a></li>
+                <li role="menuitem"><a class="btn" href="https://portal.puc.texas.gov/portal/" target="_blank"><em class="fa fa-bell-o"></em> Filing Notification System</a></li>
+                <li role="menuitem"><a class="btn" href="https://interchange.puc.texas.gov/filer" target="_blank"><em class="fa fa-file-text-o"></em> PUC Interchange Filer</a></li>
+            </ul>
+        </div>
+        <div id="layoutToolbar" class="visible-xs toolbar">
+            <ul class="nav nav-pills" role="menu">
+                <li class="dropdown">
+                    <a class="btn dropdown-toggle" data-toggle="dropdown" href="#"><em class="fa fa-bars fa-2x"></em></a>
+                    <ul class="dropdown-menu">
+                        <li role="menuitem"><a href="/"><em class="fa fa-search"></em> Filing Search</a></li>
+                        <li role="menuitem"><a href="/search/daily/"><em class="fa fa-calendar"></em> Daily Filing Search</a></li>
+                        <li role="menuitem"><a href="https://www.puc.texas.gov/industry/filings/Default.aspx"><em class="fa fa-question"></em> Learn More</a></li>
+                        <li role="menuitem"><a href="https://portal.puc.texas.gov/portal/"><em class="fa fa-bell-o"></em> Filing Notification System</a></li>
+                        <li role="menuitem"><a href="https://interchange.puc.texas.gov/filer"><em class="fa fa-file-text-o"></em> PUC Interchange Filer</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <br />
+        
+
+
+    <p><strong>Case Style</strong> &nbsp; SB 6 IMPLEMENTATION</p>
+    <p>101 filing(s).</p>
+<table class="table table-responsive table-hover table-striped table-bordered table-condensed">
+    <tr class="pagerExportRow">
+        <td colspan="5">
+            <span style="text-align: left">
+                <div class="pagination-container"><ul class="pagination"><li class="disabled&#32;PagedList-skipToFirst"><a>««</a></li><li class="disabled&#32;PagedList-skipToPrevious"><a rel="prev">«</a></li><li class="active"><a>1</a></li><li class="disabled&#32;PagedList-skipToNext"><a rel="next">»</a></li><li class="disabled&#32;PagedList-skipToLast"><a>»»</a></li></ul></div>
+            </span>
+
+                <span style="float: right; font-weight: bold">
+                    <a href="/search/exportfilings/?ControlNumber=58317&amp;ItemMatch=0&amp;SortBy=ItemNumber&amp;SortOrder=Ascending"
+                       class="btn btn-primary">
+                        Export to Excel&nbsp;<span class="fa fa-file-excel-o" aria-hidden="true"></span>
+                    </a>
+                </span>
+        </td>
+    </tr>
+    <tr>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58317&amp;ItemMatch=0&amp;SortBy=ItemNumber&amp;SortOrder=Descending"> 
+    Item
+        <span aria-hidden="true"> &#9650;</span>
+        <span class="sr-only">sorted ascending</span>  
+</a>
+</th>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58317&amp;ItemMatch=0&amp;SortBy=FileStamp&amp;SortOrder=Ascending"> 
+    File Stamp
+</a>
+</th>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58317&amp;ItemMatch=0&amp;SortBy=FilingParty&amp;SortOrder=Ascending"> 
+    Party
+</a>
+</th>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58317&amp;ItemMatch=0&amp;SortBy=ItemType&amp;SortOrder=Ascending"> 
+    Item Type
+</a>
+</th>
+        <th>
+
+<a href="/search/filings/?ControlNumber=58317&amp;ItemMatch=0&amp;SortBy=FilingDescription&amp;SortOrder=Ascending"> 
+    Filing Description
+</a>
+</th>
+    </tr>
+
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=1">1</a>
+                    </strong>
+            </td>
+            <td>
+                6/30/2025
+            </td>
+            <td>
+                PUC RULES AND PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Request for control number
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=2">2</a>
+                    </strong>
+            </td>
+            <td>
+                7/8/2025
+            </td>
+            <td>
+                PUC RULES AND PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Notice of July 21 Workshop
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=3">3</a>
+                    </strong>
+            </td>
+            <td>
+                7/14/2025
+            </td>
+            <td>
+                PUC RULES AND PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                July 21 Workshop Agenda
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=4">4</a>
+                    </strong>
+            </td>
+            <td>
+                7/24/2025
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Response to Commission Request for Information Regarding Net Metering Arrangements Under PURA § 39.169
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=5">5</a>
+                    </strong>
+            </td>
+            <td>
+                8/1/2025
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Staff Memo and Roadmap
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=6">6</a>
+                    </strong>
+            </td>
+            <td>
+                8/5/2025
+            </td>
+            <td>
+                KENNEDY REPORTING SERVICE
+            </td>
+            <td>
+                ADMN
+            </td>
+            <td>
+                SENATE BILL 6 IMPLEMENTATION WORKSHOP PROJECT NO. 58317  MONDAY, JULY 21, 2025
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=7">7</a>
+                    </strong>
+            </td>
+            <td>
+                9/2/2025
+            </td>
+            <td>
+                ERCOT
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                ERCOT LETTER RE NET METERING STUDY DETAILS
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=8">8</a>
+                    </strong>
+            </td>
+            <td>
+                9/2/2025
+            </td>
+            <td>
+                Goff Policy &amp; McAdams Energy Group
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Findings from the 2025 Large Load Symposium at The University of Texas
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=9">9</a>
+                    </strong>
+            </td>
+            <td>
+                9/19/2025
+            </td>
+            <td>
+                ERCOT
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                ERCOT LETTER RE STAND-ALONE GENERATION RESOURCE LIST UPDATE
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=10">10</a>
+                    </strong>
+            </td>
+            <td>
+                9/24/2025
+            </td>
+            <td>
+                OPUC
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                OPUC NOTICE OF PARTICIPATION LETTER
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=11">11</a>
+                    </strong>
+            </td>
+            <td>
+                12/18/2025
+            </td>
+            <td>
+                GOOGLE LLC, LANCIUM LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Joint Comments of Google LLC and Lancium LLC on SB6 Implementation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=12">12</a>
+                    </strong>
+            </td>
+            <td>
+                1/30/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                OM Item No. 46 - Staff Memo and Updated Roadmap
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=13">13</a>
+                    </strong>
+            </td>
+            <td>
+                4/17/2026
+            </td>
+            <td>
+                House State Affairs Committee
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                SB 6 Implementation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=14">14</a>
+                    </strong>
+            </td>
+            <td>
+                5/27/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Staff Memo_New Rulemaking Project
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=15">15</a>
+                    </strong>
+            </td>
+            <td>
+                5/27/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Staff Memo and Updated Roadmap
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=16">16</a>
+                    </strong>
+            </td>
+            <td>
+                6/22/2026
+            </td>
+            <td>
+                PUC DEPUTY EXECUTIVE DIRECTOR
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                Governor Abbott&#39;s June 10, 2026 letter to PUCT and ERCOT re: Data Center Infrastructure Costs
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=17">17</a>
+                    </strong>
+            </td>
+            <td>
+                7/2/2026
+            </td>
+            <td>
+                SIERRA CLUB
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Informal comments related to directive from Governor Greg Abbott
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=18">18</a>
+                    </strong>
+            </td>
+            <td>
+                7/20/2026
+            </td>
+            <td>
+                PUC DEPUTY EXECUTIVE DIRECTOR
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                Response to Governor Abbott&#39;s June 10, 2026 letter
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=19">19</a>
+                    </strong>
+            </td>
+            <td>
+                7/21/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                SB6 Implementation Roadmap Updated July 2026
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=20">20</a>
+                    </strong>
+            </td>
+            <td>
+                7/26/2026
+            </td>
+            <td>
+                GREEN RECURIVE UTILITY SERVICE LLC
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comment of GREEN RECURIVE UTILITY SERVICE LLC UNIQUE ENTITY ID: JGT4J9QKGCQ3  Re: Project No. 58317 - Request Regulations of Computational Load Metering Standard, Grid Relief, The Registration and Reporting of Large Computational data grids. PUC 59976
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=21">21</a>
+                    </strong>
+            </td>
+            <td>
+                7/28/2026
+            </td>
+            <td>
+                CITY OF EL PASO
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Informal Comments of Renard U. Johnson, Mayor of the City of El Paso, in Response to Governor Greg Abbott&#39;s June 10, 2026 Data Center Directive
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=22">22</a>
+                    </strong>
+            </td>
+            <td>
+                8/3/2026
+            </td>
+            <td>
+                Joshua Rabe
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public Comments Regarding Proposed Data Center at 13590 Denton Hwy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=23">23</a>
+                    </strong>
+            </td>
+            <td>
+                8/5/2026
+            </td>
+            <td>
+                Kevin Myers Colonel, US Army (Ret)
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                Texas property owner to requesting PUCT&#39;s direct intervention regarding the proposed 350-megawatt (MW) Oncor utility substation serving the Westlake Data Center Project
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=24">24</a>
+                    </strong>
+            </td>
+            <td>
+                8/5/2026
+            </td>
+            <td>
+                Dan Delgado
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Waste and Hazardous Materials at the end of life of a Data Center.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=25">25</a>
+                    </strong>
+            </td>
+            <td>
+                8/6/2026
+            </td>
+            <td>
+                PUC OPDM
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                CHAIRMAN GLEESON MEMORANDUM
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=26">26</a>
+                    </strong>
+            </td>
+            <td>
+                8/6/2026
+            </td>
+            <td>
+                PUC DEPUTY EXECUTIVE DIRECTOR
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                Governor Abbott&#39;s August 3, 2026 letter to PUCT and ERCOT re: Verification of Data Center Information
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=27">27</a>
+                    </strong>
+            </td>
+            <td>
+                8/10/2026
+            </td>
+            <td>
+                ERCOT
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                ERCOT LETTER REGARDING PROJECT NO. 59142 FILING
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=28">28</a>
+                    </strong>
+            </td>
+            <td>
+                8/13/2026
+            </td>
+            <td>
+                Nelda Howton
+            </td>
+            <td>
+                TEST
+            </td>
+            <td>
+                Testimony for PUC Commissioners
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=29">29</a>
+                    </strong>
+            </td>
+            <td>
+                8/13/2026
+            </td>
+            <td>
+                Aaron Howton
+            </td>
+            <td>
+                TEST
+            </td>
+            <td>
+                Testimony at PUC for Commissioners
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=30">30</a>
+                    </strong>
+            </td>
+            <td>
+                8/13/2026
+            </td>
+            <td>
+                Jason Howton, Bell County
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Written Statement on Commission procedure under 16 TAC Chapters 22 and 25
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=31">31</a>
+                    </strong>
+            </td>
+            <td>
+                8/19/2026
+            </td>
+            <td>
+                Alicia Ostermeier
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about the Data Center at 13590 Denton Hwy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=32">32</a>
+                    </strong>
+            </td>
+            <td>
+                8/19/2026
+            </td>
+            <td>
+                Ben Buckwalter
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Public Comments Regarding Circle T Data Center at 13590 Denton Hwy, Westlake, Texas
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=33">33</a>
+                    </strong>
+            </td>
+            <td>
+                8/19/2026
+            </td>
+            <td>
+                Karen Trost
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about the Data Center at 13590 Denton Hwy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=34">34</a>
+                    </strong>
+            </td>
+            <td>
+                8/19/2026
+            </td>
+            <td>
+                Kevin Myers
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about the Data Center at 13590 Denton Hwy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=35">35</a>
+                    </strong>
+            </td>
+            <td>
+                8/19/2026
+            </td>
+            <td>
+                Michael Ostermeier
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about the Data Center at 13590 Denton Hwy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=36">36</a>
+                    </strong>
+            </td>
+            <td>
+                8/19/2026
+            </td>
+            <td>
+                Jennifer Tierney
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about the Data Center at 13590 Denton Hwy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=37">37</a>
+                    </strong>
+            </td>
+            <td>
+                8/20/2026
+            </td>
+            <td>
+                Marshall Ridge Keller
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about the data center proposed to be built at 13590 Denton Hwy in Westlake.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=38">38</a>
+                    </strong>
+            </td>
+            <td>
+                8/20/2026
+            </td>
+            <td>
+                Nitisha
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                 Concerns about the Data center at 13590 Denton hwy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=39">39</a>
+                    </strong>
+            </td>
+            <td>
+                8/20/2026
+            </td>
+            <td>
+                Sandra Reeves
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about the Data Center at 13590  Denton Hwy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=40">40</a>
+                    </strong>
+            </td>
+            <td>
+                8/20/2026
+            </td>
+            <td>
+                Lois Cowan
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about the data center at 13590 Denton Hwy, Westlake Texas
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=41">41</a>
+                    </strong>
+            </td>
+            <td>
+                8/20/2026
+            </td>
+            <td>
+                Donna Player
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Concerns about Data Center at 13590 Denton Hwy
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=42">42</a>
+                    </strong>
+            </td>
+            <td>
+                8/23/2026
+            </td>
+            <td>
+                NANCY WHITE
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Testimony Before the Texas House Committee Regarding Data Centers as Critical Infrastructure and Enforcement of the Lone Star Infrastructure Protection Act
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=43">43</a>
+                    </strong>
+            </td>
+            <td>
+                8/24/2026
+            </td>
+            <td>
+                Darian Stern
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Public Comments and Complaints
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=44">44</a>
+                    </strong>
+            </td>
+            <td>
+                8/25/2026
+            </td>
+            <td>
+                Rep. Ken King
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                Legislative Correspondence
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=45">45</a>
+                    </strong>
+            </td>
+            <td>
+                8/25/2026
+            </td>
+            <td>
+                Rep. Ken King
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                Legislative Correspondence
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=46">46</a>
+                    </strong>
+            </td>
+            <td>
+                8/25/2026
+            </td>
+            <td>
+                Meredith McCall
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Oral Arguments on 59315 and 59029 and Transcripts from the July 29th B&amp;C committee on Grid Reliability and 765 KV Transmission
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=47">47</a>
+                    </strong>
+            </td>
+            <td>
+                8/26/2026
+            </td>
+            <td>
+                Frank McClain
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Public Comments, Data Center Impacts, Project 58317
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=48">48</a>
+                    </strong>
+            </td>
+            <td>
+                8/26/2026
+            </td>
+            <td>
+                Jonathan Hemmila
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public Comment in Strong Opposition to Oncor Electric Delivery Infrastructure Expansion for the PowerHouse Circle T Data Center (Westlake, TX)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=49">49</a>
+                    </strong>
+            </td>
+            <td>
+                8/27/2026
+            </td>
+            <td>
+                Jonathan Hemmila
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public Comment / Protest Regarding the Proposed PowerHouse Data Center in Westlake, Texas (Control/Docket No. 58317).
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=50">50</a>
+                    </strong>
+            </td>
+            <td>
+                8/30/2026
+            </td>
+            <td>
+                Lydia Mahserjian
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about Data Centers planned and in-progress in North Richland Hills
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=51">51</a>
+                    </strong>
+            </td>
+            <td>
+                8/30/2026
+            </td>
+            <td>
+                Rebekah Hernandez
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Concerns about data centers in North Richland Hills
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=52">52</a>
+                    </strong>
+            </td>
+            <td>
+                8/30/2026
+            </td>
+            <td>
+                Amber Monaghan
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns over AI/crypto data centers using all of Texans resources and causing negative health outcomes being built too close to people&#39;s homes
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=53">53</a>
+                    </strong>
+            </td>
+            <td>
+                8/30/2026
+            </td>
+            <td>
+                Stephen McKeehan
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                Data Center Concerns
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=54">54</a>
+                    </strong>
+            </td>
+            <td>
+                8/30/2026
+            </td>
+            <td>
+                Elizabeth Reddock
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns over AI/crypto data center development
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=55">55</a>
+                    </strong>
+            </td>
+            <td>
+                8/30/2026
+            </td>
+            <td>
+                Mary Elizabeth McArthur
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Public Comment expressing concerns regarding data centers in North Richland Hills
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=56">56</a>
+                    </strong>
+            </td>
+            <td>
+                8/30/2026
+            </td>
+            <td>
+                Stephen McKeehan
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Data Center Concerns
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=57">57</a>
+                    </strong>
+            </td>
+            <td>
+                8/30/2026
+            </td>
+            <td>
+                58317
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns regarding data center development in North Richland Hills.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=58">58</a>
+                    </strong>
+            </td>
+            <td>
+                8/31/2026
+            </td>
+            <td>
+                Kristina Carnevale
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about Data Centers planned and in-progress in North Richland Hills, TX
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=59">59</a>
+                    </strong>
+            </td>
+            <td>
+                8/31/2026
+            </td>
+            <td>
+                John P. Guy
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about Data Centers planned and in-progress in North Richland Hill, Boling, and Brenham Texas.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=60">60</a>
+                    </strong>
+            </td>
+            <td>
+                8/31/2026
+            </td>
+            <td>
+                John Reid
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about Data Centers planned and in-progress in North Richland Hills
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=61">61</a>
+                    </strong>
+            </td>
+            <td>
+                8/31/2026
+            </td>
+            <td>
+                Karran Martin
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Public Comments / Testimony, Data Center Impacts, Project 58317
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=62">62</a>
+                    </strong>
+            </td>
+            <td>
+                8/31/2026
+            </td>
+            <td>
+                Anna Swisher
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about Data Centers planned in Jarrell, Texas
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=63">63</a>
+                    </strong>
+            </td>
+            <td>
+                8/31/2026
+            </td>
+            <td>
+                Luke Carnevale
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about Data Centers planned and in-progress in North Richland Hills
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=64">64</a>
+                    </strong>
+            </td>
+            <td>
+                8/31/2026
+            </td>
+            <td>
+                Yulissa Montes
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about Data Centers planned and in progress
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=65">65</a>
+                    </strong>
+            </td>
+            <td>
+                8/31/2026
+            </td>
+            <td>
+                David Nash
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                RE: On-line comments for House State Affairs 8/19/26 meeting for Data Centers.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=66">66</a>
+                    </strong>
+            </td>
+            <td>
+                8/31/2026
+            </td>
+            <td>
+                Deborah Jogie-Cregger
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Concern Regarding the Wuliger Data Center and Its Impact on the Greenbelt Wildlife Habitat.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=67">67</a>
+                    </strong>
+            </td>
+            <td>
+                9/1/2026
+            </td>
+            <td>
+                Mike Jackson
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Analysis of the AmpZ Lufkin Project
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=68">68</a>
+                    </strong>
+            </td>
+            <td>
+                9/4/2026
+            </td>
+            <td>
+                Sam Mahserjian
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Concerns about Data Centers planned and in-progress in North Richland Hills
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=69">69</a>
+                    </strong>
+            </td>
+            <td>
+                9/22/2026
+            </td>
+            <td>
+                PUC RULES &amp; PROJECTS
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                SB6 Implementation Roadmap Updated September 2026
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=70">70</a>
+                    </strong>
+            </td>
+            <td>
+                9/22/2026
+            </td>
+            <td>
+                Kimberly Weiland
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public comment on Data centers and large industrial complexes
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=71">71</a>
+                    </strong>
+            </td>
+            <td>
+                9/22/2026
+            </td>
+            <td>
+                Mary Balmain
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Governor&#8217;s audit
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=72">72</a>
+                    </strong>
+            </td>
+            <td>
+                9/22/2026
+            </td>
+            <td>
+                Gary Roberson
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                765 kV
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=73">73</a>
+                    </strong>
+            </td>
+            <td>
+                9/22/2026
+            </td>
+            <td>
+                Justin Koch
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public Comments of Justin Koch Bowie County, TX
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=74">74</a>
+                    </strong>
+            </td>
+            <td>
+                9/22/2026
+            </td>
+            <td>
+                Toni Williams
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public comments on data centers. 765kV Governor&#39;s audit
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=75">75</a>
+                    </strong>
+            </td>
+            <td>
+                9/23/2026
+            </td>
+            <td>
+                Jennifer Carrig Hood County Citizen
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Public Comment on SB 6 Implementation: Large-Load Verification, Transparency, Infrastructure Accountability, and Community Impacts
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=76">76</a>
+                    </strong>
+            </td>
+            <td>
+                9/23/2026
+            </td>
+            <td>
+                Peter Chambers
+            </td>
+            <td>
+                LTRS
+            </td>
+            <td>
+                Rising Electricity Costs in Wimberley and Large-Load Data Center Development in Hays County
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=77">77</a>
+                    </strong>
+            </td>
+            <td>
+                9/23/2026
+            </td>
+            <td>
+                Emerald DesJardins
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public comments on data centers
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=78">78</a>
+                    </strong>
+            </td>
+            <td>
+                9/23/2026
+            </td>
+            <td>
+                Tyrone Brown
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Data Centers, ERCOT, Bowie County
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=79">79</a>
+                    </strong>
+            </td>
+            <td>
+                9/23/2026
+            </td>
+            <td>
+                Melissa Gibbard
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Public comments on data centers
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=80">80</a>
+                    </strong>
+            </td>
+            <td>
+                9/23/2026
+            </td>
+            <td>
+                Tim Morin
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public comments on data centers, 765 kV, and the Governor&#8217;s audit
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=81">81</a>
+                    </strong>
+            </td>
+            <td>
+                9/23/2026
+            </td>
+            <td>
+                Lynda Soliz
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                data centers, 765 kV, and the Governor&#39;s audit. I&#8217;m Very concerned and upset to find out that 8,300 acres has been purchased for a proposed DATA CENTER JIM HOGG. Co  Property is surrounded by farms, wildlife and historic sites.  Drought has been declared.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=82">82</a>
+                    </strong>
+            </td>
+            <td>
+                9/23/2026
+            </td>
+            <td>
+                Debra Roach
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Too Many Data Centers in Medina County
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=83">83</a>
+                    </strong>
+            </td>
+            <td>
+                9/24/2026
+            </td>
+            <td>
+                Ashly Sanchez
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Overwhelming the state with data centers. 765 kV, governors audit. 520 acres of data center near atmos gas line. Drought. Farm land/agriculture, wildlife and historical sites.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=84">84</a>
+                    </strong>
+            </td>
+            <td>
+                9/24/2026
+            </td>
+            <td>
+                Jason Davidson
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Concerns over Howard Blu Lacy transmission project, and call for alternative solutions.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=85">85</a>
+                    </strong>
+            </td>
+            <td>
+                9/25/2026
+            </td>
+            <td>
+                Kayleen Jones
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                I do not want a data center in my neighborhood unless they have an independent power supply that does not use the grid. None of us want to lose the farmland and gain the noise or excessive bills from the proposed data centers.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=86">86</a>
+                    </strong>
+            </td>
+            <td>
+                9/25/2026
+            </td>
+            <td>
+                Janet Taylor
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                No Data Center in Bowie County Texas without environmental impact studies and a moratorium to support a data center supported by the majority of citizens.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=87">87</a>
+                    </strong>
+            </td>
+            <td>
+                9/26/2026
+            </td>
+            <td>
+                Leslie Wiltse
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                I oppose the data centers, 765 kV, and I have no faith in the Governor&#8217;s audit. We moved to rural area to avoid what you are bringin here. I will not pay for these data centers to ruin our state!
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=88">88</a>
+                    </strong>
+            </td>
+            <td>
+                9/26/2026
+            </td>
+            <td>
+                Clare Nelson
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                The prudent course is not to build first and validate later. 1) Validate the load. 2) Establish the financial commitment. 3) Allocate the risk. 4) Then build what the evidence demonstrates Texas actually needs.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=89">89</a>
+                    </strong>
+            </td>
+            <td>
+                9/27/2026
+            </td>
+            <td>
+                Residents
+            </td>
+            <td>
+                PRJ 
+            </td>
+            <td>
+                Data center concerns with sound, water, pollution, short term financials, long term financials- these can also be compared with current open locations around the globe for comparison and understanding , property values, health risk exposure
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=90">90</a>
+                    </strong>
+            </td>
+            <td>
+                9/27/2026
+            </td>
+            <td>
+                Sandy
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                DataCenter concerns w/ sound/light pollution, low/highFREQvibration, short/long term financials,- can be compared to areas w/long term established Data Center for comparison/understanding, property values, health risk exposure. NOT paying for others MW.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=91">91</a>
+                    </strong>
+            </td>
+            <td>
+                9/29/2026
+            </td>
+            <td>
+                Yasmen Ritchey
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Data Center Comments
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=92">92</a>
+                    </strong>
+            </td>
+            <td>
+                9/30/2026
+            </td>
+            <td>
+                Saunders Consigliere PLLC
+            </td>
+            <td>
+                PC  
+            </td>
+            <td>
+                Executive Brief &#8212; Texas Data Center and Large-Load Development: Community Protection, Siting and Lifecycle Framework
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=93">93</a>
+                    </strong>
+            </td>
+            <td>
+                9/30/2026
+            </td>
+            <td>
+                Cynthia Stephenson
+            </td>
+            <td>
+                RFI 
+            </td>
+            <td>
+                Objection to 765 kV lines &amp; data centers
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=94">94</a>
+                    </strong>
+            </td>
+            <td>
+                10/1/2026
+            </td>
+            <td>
+                No Bowie county data centers
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Opposition to data centers
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=95">95</a>
+                    </strong>
+            </td>
+            <td>
+                10/1/2026
+            </td>
+            <td>
+                Danny Proctor
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Comments on data centers
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=96">96</a>
+                    </strong>
+            </td>
+            <td>
+                10/1/2026
+            </td>
+            <td>
+                GREEN RECURIVE UTILITY SERVICE LLC
+            </td>
+            <td>
+                PL  
+            </td>
+            <td>
+                Request for adoption of GRUS-STD-60084 Measurement Standard for Large Computational Loads
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=97">97</a>
+                    </strong>
+            </td>
+            <td>
+                10/1/2026
+            </td>
+            <td>
+                Jennifer Hood
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                In favor of adoption 58317-96 measurement standard
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=98">98</a>
+                    </strong>
+            </td>
+            <td>
+                10/1/2026
+            </td>
+            <td>
+                Cary Kemp
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                I support 58317 100% and request public hearings.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=99">99</a>
+                    </strong>
+            </td>
+            <td>
+                10/1/2026
+            </td>
+            <td>
+                Pauline Kemp
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                In favor of 58317-96
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=100">100</a>
+                    </strong>
+            </td>
+            <td>
+                10/1/2026
+            </td>
+            <td>
+                Nathan Cordova
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                100% in favor of 58317
+            </td>
+        </tr>
+        <tr>
+            <td>
+                    <strong>
+                        <a href="/search/documents/?controlNumber=58317&amp;itemNumber=101">101</a>
+                    </strong>
+            </td>
+            <td>
+                10/2/2026
+            </td>
+            <td>
+                Kimberly Weiland
+            </td>
+            <td>
+                COM 
+            </td>
+            <td>
+                Public comments on data centers, 765 KV and Governors audit
+            </td>
+        </tr>
+    <tr class="pagerExportRow">
+        <td colspan="5">
+            <span style="text-align: left">
+                <div class="pagination-container"><ul class="pagination"><li class="disabled&#32;PagedList-skipToFirst"><a>««</a></li><li class="disabled&#32;PagedList-skipToPrevious"><a rel="prev">«</a></li><li class="active"><a>1</a></li><li class="disabled&#32;PagedList-skipToNext"><a rel="next">»</a></li><li class="disabled&#32;PagedList-skipToLast"><a>»»</a></li></ul></div>
+            </span>
+
+                <span style="float: right; font-weight: bold">
+                    <a href="/search/exportfilings/?ControlNumber=58317&amp;ItemMatch=0&amp;SortBy=ItemNumber&amp;SortOrder=Ascending"
+                       class="btn btn-primary">
+                        Export to Excel&nbsp;<span class="fa fa-file-excel-o" aria-hidden="true"></span>
+                    </a>
+                </span>
+        </td>
+    </tr>
+</table>
+
+    </div>
+    </div>
+    <footer class="hidden-print">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5 col-sm-5">
+                    <h5>Public Utility Commission of Texas</h5>
+                    <address>
+                        1701 N. Congress Ave.<br />
+                        PO Box 13326 <br />
+                        Austin, TX 78711-3326
+                    </address>
+                    <address>
+                        <div>
+                            <a href="tel://1-512-936-7000"><span class="fa fa-phone"></span><abbr title="Phone"></abbr> &nbsp; 512-936-7000</a>
+                        </div>
+                        <div>
+                            <a href="https://www.puc.texas.gov/agency/about/contact/Default.aspx"><span class="fa fa-at"></span> &nbsp; Contact Us</a>
+                        </div>
+                    </address>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <h5>AGENCY INFO</h5>
+                    <ul class="list-unstyled">
+                        <li><a title="Site Policies" href="http://www.puc.texas.gov/agency/about/policies/Default.aspx">Site Policies</a></li>
+                        <li><a title="Sitemap" href="http://www.puc.texas.gov/agency/Sitemap.aspx">Sitemap</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 col-sm-3">
+                    <h5>OTHER GOVERNMENT RESOURCES</h5>
+                    <ul class="list-unstyled">
+                        <li><a title="Report Fraud, Waste or Abuse" href="http://sao.fraud.state.tx.us/">Report Fraud, Waste or Abuse</a></li>
+                        <li><a title="Texas Homeland Security" href="http://governor.state.tx.us/homeland">Texas Homeland Security</a></li>
+                        <li><a title="Ready.gov" href="http://www.ready.gov/">Ready.gov</a></li>
+                        <li><a title="Texas Online" href="http://texas.gov">Texas.gov</a></li>
+                        <li><a title="Texas Veterans" href="https://veterans.portal.texas.gov/">Texas Veterans</a></li>
+                        <li><a title="TRAIL" href="https://www.tsl.state.tx.us/trail/index.html">TRAIL</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <nav>
+                        <ul class="list-inline list-unstyled">
+                            <li>
+                                <a href="http://www.puc.texas.gov/agency/calendar/GetCalendarRss.aspx" title="" aria-label="PUC Calendar RSS Feed">
+                                    <span class="fa fa-rss-square fa-2x"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="http://www.facebook.com/pages/Public-Utility-Commission-of-Texas/207063229365425" title="" aria-label="Facebook">
+                                    <span class="fa fa-facebook-square fa-2x"></span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/PUCTx" title="" aria-label="Twitter">
+                                    <span class="fa fa-twitter-square fa-2x"></span>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-sm-12">
+                    <span>Copyright &copy; 2026 Public Utility Commission of Texas</span><br />
+                    <span>Version 2.2.11.0</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/bundles/jquery?v=235DeCRyc2KKtm5-u-WowaGmWHU3ft44y448NxHpMf41"></script>
+
+    
+    <script src="/bundles/bootstrap?v=7k-mK_Lw6GRA4MkvIrgrWipUHc3KUDohIwN2DDpspCI1"></script>
+
+    <script src="/bundles/jqueryui?v=hw6jcrpF2LibSX_LeceAnPEcB9rROmvBBgAybQbkxRw1"></script>
+
+    <script src="/bundles/jqueryval?v=LrAZb_GsdYxwaNya0KRkergsGqN8vM0cwGeAR9hjPZI1"></script>
+
+
+    <script type="text/javascript">
+        var $buoop = { notify: { e: 10, f: -4, o: -4, s: -2, c: -4 }, insecure: true, unsupported: true, api: 5 };
+
+        function $buo_f() {
+            var e = document.createElement("script");
+            e.src = "https://browser-update.org/update.min.js";
+            document.body.appendChild(e);
+        };
+
+        try {
+            document.addEventListener("DOMContentLoaded", $buo_f, false);
+        } catch (e) {
+            window.attachEvent("onload", $buo_f);
+        }
+        
+        if (!Modernizr.inputtypes.date) {
+            $(function () {
+                $(".datecontrol").datepicker();
+            });
+        }
+    </script>
+
+    
+</body>
+</html>
