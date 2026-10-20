@@ -16,7 +16,13 @@ type: software
 repository-code: "https://github.com/abouchard11/tx-large-load-tracker"
 url: "https://github.com/abouchard11/tx-large-load-tracker"
 license: Apache-2.0
-date-released: 2026-10-06
+version: "1.0.0"
+doi: "10.5281/zenodo.23502963"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23502963"
+    description: "Concept DOI: resolves to the latest archived release on Zenodo"
+date-released: 2026-10-20
 keywords:
   - "ercot"
   - "texas"
