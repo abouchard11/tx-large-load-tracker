@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "tx-large-load-tracker"
+abstract: >-
+  Watches the public record on large-load (mostly data-center) interconnection in ERCOT
+  and writes a dated digest: what changed since the last run, which deadlines are
+  coming, and whether every source was actually read.
+authors:
+  - family-names: "Bouchard"
+    given-names: "Alex"
+    email: "alex@midnightdev.dev"
+    affiliation: "MidnightDev"
+    website: "https://midnightdev.dev"
+    orcid: "https://orcid.org/0009-0003-0911-9681"
+type: software
+repository-code: "https://github.com/abouchard11/tx-large-load-tracker"
+url: "https://github.com/abouchard11/tx-large-load-tracker"
+license: Apache-2.0
+date-released: 2026-10-06
+keywords:
+  - "ercot"
+  - "texas"
+  - "data-centers"
+  - "energy"
+  - "monitoring"
+  - "interconnection"
