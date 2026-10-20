@@ -1,5 +1,7 @@
 # Texas large-load tracker
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23502963.svg)](https://doi.org/10.5281/zenodo.23502963)
+
 Watches the public record on large-load (mostly data-center) interconnection in ERCOT and writes a
 dated digest: what changed since the last run, which deadlines are coming, and whether every source
 was actually read.
